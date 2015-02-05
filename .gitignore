@@ -3,3 +3,5 @@
 .RData
 GetDataProject.Rproj
 testcode.R
+data/
+data
