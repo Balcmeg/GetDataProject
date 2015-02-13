@@ -16,6 +16,15 @@ No|Activity name
 5|standing
 6|laying
 
+No    Activity name
+------------------
+1     walking
+2     walking upstairs
+3     walking downstairs
+4     sitting
+5     standing
+6     laying
+
 ####Changes to variable names
 Column No denotes location in original data file.
 The varaibles kept were those dealing with the variables mean and standard deviation.
