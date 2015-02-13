@@ -7,14 +7,14 @@ This mark the subject ID
 ####Coulmn 2, activity
 Denotes activity type. Th elabels have been slightly changed form upper to lower case and spaces have repleced underscores.
 
-No|Activity name
--|-----------------
-1|walking
-2|walking upstairs
-3|walking downstairs
-4|sitting
-5|standing
-6|laying
+No|Activity name  
+-|-----------------  
+1|walking  
+2|walking upstairs  
+3|walking downstairs  
+4|sitting  
+5|standing  
+6|laying  
 
 No    Activity name
 ------------------
