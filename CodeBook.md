@@ -1,13 +1,13 @@
 ##Code Book
 here are a brief description of the changes made to the original data. For detailed info about the data and the variables that were dropped is referred to redaMe files in the original data set.
 
-####Column 1, subject
+###Column 1, subject
 This mark the subject ID
 
-####Coulmn 2, activity
+###Coulmn 2, activity
 Denotes activity type. Th elabels have been slightly changed form upper to lower case and spaces have repleced underscores.
 
-No   Activity name  
+####No & Activity name  
 ------------------  
 1   walking  
 2   walking upstairs  
@@ -16,11 +16,11 @@ No   Activity name
 5   standing  
 6   laying  
 
-####Changes to variable names
+###Changes to variable names
 Column No denotes location in original data file.
 The varaibles kept were those dealing with the variables mean and standard deviation.
 
-Column No => Old variable name => New variable name
+####Column No => Old variable name => New variable name
 -------------------------------------------
 1 => tBodyAcc-mean()-X => tbodyaccmeanx   
 2 => tBodyAcc-mean()-Y => tbodyaccmeany   
