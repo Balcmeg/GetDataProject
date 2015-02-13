@@ -17,12 +17,12 @@ File with column names are read and cleaned for consistence and easier reading.
 The new variable names are then added to the datafile.
 
 ###Segment 4
-Here the columns witht he variables we are not interedted in analysibng are removed.
+Here the columns witht he variables we are not interedted in analysing are removed.
 
 ###Segment 5
-Loading lablels for the separate avtivities (factors), cleran them for easier readin and consistency and add th the data frame.
+Loading lablels for the separate avtivities (factors), cleaning them for easier reading and consistency and add to the data frame.
 
 ###Segment 6
-Generating a new data frame with means for the activities and vrite the frame to a new file.
+Generating a new data frame with the selected activities and vrite the frame to a new file.
 
 /End
